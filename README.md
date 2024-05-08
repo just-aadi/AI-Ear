@@ -1,4 +1,4 @@
-# DeepLearningProject
+# AI Ear
 TITLE : AiEar
 PROBLEM STATEMENT: Classifying different types of audio using DeepLearning models
 EXPLANATION:
